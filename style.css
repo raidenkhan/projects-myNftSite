@@ -1,0 +1,36 @@
+*{
+    border: none;
+    padding: none;
+    margin: 0;
+    list-style: none;
+
+}
+:root{
+    --primary-color:#450774;
+    --primary-variant:#420470;
+    --primary-btn-color:#9a1ae9;
+    --blur-color:#ca9e03;
+    --white-color:#ffff;
+    --subliminal-color:#f7a761;
+    --dark-bg:#250539;
+    --primary-dark-color:#150320;
+}
+.font{
+    font-weight: bold;
+    color: var(--white-color);
+}
+.font-larg{
+    font-size: 80px;
+    
+
+}
+.font-info{
+    font-size: 52px;
+
+}
+.font-medum{
+    font-size: 42px;
+}
+.font-small{
+    font-size: 18px;
+}
