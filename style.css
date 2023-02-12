@@ -34,3 +34,54 @@
 .font-small{
     font-size: 18px;
 }
+#page{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+ 
+}
+a{
+    color: var(--white-color);
+    text-decoration: none;
+}
+.btn{
+    padding: .6em 1em;
+    border-radius: 10%;
+}
+.bg-dark{
+    background: #150320bd;
+    backdrop-filter: blur(2rem);
+
+}
+.container{
+    width: 70%;
+  background: linear-gradient(60deg,var(--primary-color),#7328a1);
+  display: flex;
+  justify-content: center;
+  padding-top: 3em;
+margin-inline: 4em;
+padding-inline: 8em;
+    
+}
+.navigation{
+    display: flex;
+   gap: 10em;
+}
+.navigation .nav-link{
+    display: flex;
+    gap: 8em;
+    
+}
+.navigation ul{
+    display: flex;
+    align-items: center;
+    gap: 2em;
+   
+}
+.navigation ul li{
+    font-weight: bold;
+    font-family: "Poppins";
+}
+li .active{
+    color: var(--primary-btn-color);
+}
