@@ -35,7 +35,6 @@
     font-size: 18px;
 }
 #page{
-    height: 100vh;
     display: flex;
     justify-content: center;
  
@@ -57,6 +56,7 @@ a{
     width: 70%;
   background: linear-gradient(60deg,var(--primary-color),#7328a1);
   display: flex;
+  flex-direction: column;
   justify-content: center;
   padding-top: 3em;
 margin-inline: 4em;
@@ -65,17 +65,20 @@ padding-inline: 8em;
 }
 .navigation{
     display: flex;
-   gap: 10em;
+    width: 100%;
+   gap: 8em;
+
 }
 .navigation .nav-link{
     display: flex;
-    gap: 8em;
+    justify-content: space-between;
+gap: 16em;
     
 }
 .navigation ul{
     display: flex;
     align-items: center;
-    gap: 2em;
+    gap: 1em;
    
 }
 .navigation ul li{
@@ -84,4 +87,59 @@ padding-inline: 8em;
 }
 li .active{
     color: var(--primary-btn-color);
+}
+.header{
+    margin-top: 8em;
+    display: flex;
+    width: 85%;
+    justify-content: space-between;
+    height: 100vh;
+    gap: 8em;
+   
+
+}
+.header-info{
+    font-family: "Poppins";
+    color: var(--white-color);
+}
+.header-info .main-content{
+    font-size: 62px;
+  
+    font-weight: bold;
+}
+.header-img{
+/* background-image: url(./dependencies/images/topLogos/bigImg.svg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat; */
+/* height: 8em; */
+
+ position: relative;
+ 
+}
+.header-info p:last-child{
+    width: 70%;
+
+}
+.header-img img:first-child{
+    width: 100%;
+    height: 100%;
+    
+}
+.header-img::before{
+height: 40px;
+width: 40px;
+    position: absolute;
+    content: '';
+    left: 0;
+    top: -20em;
+    /* backdrop-filter:blur(2em); */
+    border-radius: 50%;
+    background: transparent;
+    box-shadow: 0 0 60px var(--subliminal-color);
+}
+.header-img .small-img{
+    position: absolute;
+    bottom: 22em;
+    left: -8em;
 }
