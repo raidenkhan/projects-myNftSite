@@ -19,16 +19,16 @@
     font-weight: bold;
     color: var(--white-color);
 }
-.font-larg{
+.font-large{
     font-size: 80px;
     
 
 }
 .font-info{
-    font-size: 52px;
+    font-size: 52px
 
 }
-.font-medum{
+.font-medium{
     font-size: 42px;
 }
 .font-small{
@@ -172,7 +172,7 @@ width: 40px;
 }
 .mid-section{
     margin-top: 6em;
-    height: 100vh;
+    
 }
 .logo-container{
     display: flex;
@@ -200,4 +200,108 @@ width: 40px;
 .logo-container img{
     width: 12em;
    
+}
+.mid-section{
+    margin-bottom: 4em;
+} 
+.midheading-text{
+    margin: 6em auto;
+    text-align: center;
+    
+}
+.midheading-text p{
+    font-weight: 100;
+    color: var(--white-color);
+    letter-spacing: 3px;
+  font-size: 20px;
+}
+.mid-cards{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.navbox{
+    position: absolute;
+    padding: 1em;
+    height: 1em;
+    width: 1em;
+    background: #150320e3;
+    transform: rotate(45deg);
+    top: 6em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    outline: 1px solid var(--white-color);
+    border-radius: .4em;
+}
+.navbox i{
+    color: var(--white-color);
+    font-weight: 300;
+    font-size: 1.8em;
+    transform: rotate(-45deg);
+}
+.navbox.nav-right{
+right: -30px;
+}
+.navbox.nav-left{
+    left: -30px;
+    rotate: -180deg;
+}
+.card{
+    padding: 1em;
+    background: var(--primary-variant);
+    border-radius: 1em;
+    display: flex;
+    height: fit-content;
+    flex-direction: column;
+    gap: 1em;
+
+}
+.card-image{
+    height: 200px;
+    width: 250px;
+    border-radius: 1em;
+    background-color: #9a1ae9;
+}
+.card-image img{
+    height: 100%;
+    width: 100%;
+}
+.card-mid-text .upper-mid{
+    color: var(--white-color);
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.card-mid-text .upper-mid span{
+    font-size: 2em;
+  
+}
+.card-mid-text .lower-mid{
+    font-weight: 100;
+    color:var(--primary-btn-color)
+}
+.card-bottom-cnt{
+    display: flex;
+    justify-content: space-between;
+    color: var(--subliminal-color);
+    font-weight: 600;
+    font-size: 1.5em;
+    align-items: center;
+}
+.card .button{
+    text-align: center;
+    font-size: 1em;
+    font-weight: bold;
+    color: var(--white-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.card .button .nftbtn{
+    width: 80%;
+    background: var(--primary-btn-color);
+    padding:1em .1em;
+    border-radius: 2em;
 }
