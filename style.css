@@ -85,6 +85,9 @@ gap: 16em;
     font-weight: bold;
     font-family: "Poppins";
 }
+.left ul{
+    gap: 4em;
+}
 li .active{
     color: var(--primary-btn-color);
 }
@@ -93,7 +96,6 @@ li .active{
     display: flex;
     width: 85%;
     justify-content: space-between;
-    height: 100vh;
     gap: 8em;
    
 
@@ -117,10 +119,13 @@ background-repeat: no-repeat; */
  position: relative;
  
 }
-.header-info p:last-child{
+/* .header-info p:last-of-type{
     width: 70%;
+    font-weight: 200;
+    font-size: 1em;
+   
 
-}
+} */
 .header-img img:first-child{
     width: 100%;
     height: 100%;
@@ -140,6 +145,59 @@ width: 40px;
 }
 .header-img .small-img{
     position: absolute;
-    bottom: 22em;
+    bottom: 2em;
     left: -8em;
+}
+.cta-buttons{
+    margin-top: 4em;
+    display: flex;
+    gap: 2em;
+    font-size: 1.5em;
+    align-items: center;
+    width: 100%;
+}
+.cta-buttons .explore{
+    background-color: var(--primary-btn-color);
+    border-radius: 10px;
+    padding:1em 4em;
+    cursor: pointer;
+}
+.cta-buttons .createnft{
+    color: var(--subliminal-color);
+    display: flex;
+    align-items: center;
+    font-weight: 900;
+    gap: 1em;
+    cursor: pointer;
+}
+.mid-section{
+    margin-top: 6em;
+    height: 100vh;
+}
+.logo-container{
+    display: flex;
+    gap: 3em;
+    position: relative;
+    align-items: center;
+    
+}
+.logo-container::before{
+    position: absolute;
+    content: '';
+    height: 100%;
+    width: 100%;
+    top: -2em;
+    left: -2em;
+    border: 3px solid rgba(255, 255, 255, 0.555);
+    border-top-color:rgba(247, 240, 240, 0.247) ;
+    border-radius: 20px;
+    border-left-color: #ffffff60;
+    background: transparent;
+    /* box-shadow: .2px 1px 5px rgb(235, 232, 232); */
+    transform: skew(20deg);
+    padding: 2em;
+}
+.logo-container img{
+    width: 12em;
+   
 }
