@@ -6,17 +6,17 @@
 </g>
 <g style="mix-blend-mode:screen" opacity="0.1">
 <g style="mix-blend-mode:screen" opacity="0.8">
-<path d="M401.878 721.139L377.664 735.213L353.274 721.139L377.501 707.077L401.878 721.139Z" fill="#0071BC"/>
+<path d="M401.878 721.139L377.664 735.213L353.274 721.139L377.501 707.077L401.878 721.139Z" fill="purple"/>
 </g>
 </g>
-<g style="mix-blend-mode:screen" opacity="0.1">
+<g style="mix-blend-mode:screen" opacity="0.7">
 <g style="mix-blend-mode:screen">
-<path d="M272.909 785.863L220.4 816.421L167.539 785.863L220.048 755.306L272.909 785.863Z" fill="#0071BC"/>
+<path d="M272.909 785.863L220.4 816.421L167.539 785.863L220.048 755.306L272.909 785.863Z" fill="purple"/>
 </g>
 </g>
-<g style="mix-blend-mode:screen" opacity="0.1">
+<g style="mix-blend-mode:screen" opacity="0.6">
 <g style="mix-blend-mode:screen">
-<path d="M132.528 725.746L108.302 739.807L83.9239 725.734L108.15 711.672L132.528 725.746Z" fill="#9F64EB"/>
+<path d="M132.528 725.746L108.302 739.807L83.9239 725.734L108.15 711.672L132.528 725.746Z" fill="purple"/>
 </g>
 </g>
 <g style="mix-blend-mode:screen" opacity="0.1">
@@ -69,10 +69,10 @@
 <path d="M289.9 573.237L289.887 577.34L282.168 572.884V568.78L289.9 573.237Z" fill="black"/>
 </g>
 <g style="mix-blend-mode:multiply" opacity="0.15">
-<path d="M294.005 570.857L293.992 574.961L289.887 577.341L289.9 573.237L294.005 570.857Z" fill="black"/>
+<path d="M294.005 570.857L293.992 574.961L289.887 577.341L289.9 573.237L294.005 570.857Z" fill="#9a1ae9"/>
 </g>
 <g style="mix-blend-mode:multiply" opacity="0.15">
-<path d="M275.293 572.783L275.281 576.875L270.131 579.883V575.78L275.293 572.783Z" fill="black"/>
+<path d="M275.293 572.783L275.281 576.875L270.131 579.883V575.78L275.293 572.783Z" fill="#9a1ae9"/>
 </g>
 <g style="mix-blend-mode:multiply" opacity="0.15">
 <path d="M270.131 575.779V579.883L264.641 576.711L264.653 572.607L270.131 575.779Z" fill="black"/>
@@ -138,9 +138,9 @@
 <path style="mix-blend-mode:color-dodge" opacity="0.5" d="M417.87 473.725C417.87 474.26 417.711 474.783 417.413 475.228C417.116 475.673 416.693 476.02 416.198 476.225C415.704 476.43 415.159 476.483 414.634 476.379C414.109 476.275 413.627 476.017 413.248 475.638C412.87 475.26 412.612 474.778 412.507 474.253C412.403 473.728 412.456 473.183 412.661 472.689C412.866 472.194 413.213 471.772 413.658 471.474C414.104 471.177 414.627 471.018 415.162 471.018C415.88 471.018 416.569 471.303 417.077 471.811C417.584 472.318 417.87 473.007 417.87 473.725Z" fill="url(#paint11_radial_1_188)"/>
 <path style="mix-blend-mode:color-dodge" opacity="0.5" d="M187.793 463.654C187.791 464.188 187.63 464.71 187.331 465.154C187.032 465.597 186.608 465.942 186.113 466.145C185.619 466.348 185.075 466.4 184.55 466.294C184.026 466.188 183.545 465.929 183.167 465.55C182.79 465.171 182.533 464.689 182.43 464.164C182.327 463.64 182.381 463.096 182.586 462.602C182.791 462.109 183.138 461.687 183.583 461.39C184.028 461.093 184.551 460.935 185.086 460.935C185.443 460.935 185.796 461.005 186.125 461.142C186.454 461.279 186.753 461.479 187.005 461.732C187.256 461.984 187.456 462.284 187.591 462.614C187.726 462.944 187.795 463.297 187.793 463.654Z" fill="url(#paint12_radial_1_188)"/>
 <path style="mix-blend-mode:color-dodge" opacity="0.5" d="M107.974 513.353C107.974 513.888 107.815 514.412 107.518 514.857C107.22 515.302 106.798 515.649 106.303 515.854C105.808 516.058 105.264 516.112 104.739 516.008C104.214 515.903 103.731 515.645 103.353 515.267C102.974 514.888 102.716 514.406 102.612 513.881C102.507 513.356 102.561 512.812 102.766 512.317C102.971 511.823 103.318 511.4 103.763 511.103C104.208 510.805 104.732 510.646 105.267 510.646C105.985 510.646 106.674 510.932 107.181 511.439C107.689 511.947 107.974 512.635 107.974 513.353Z" fill="url(#paint13_radial_1_188)"/>
-<path style="mix-blend-mode:screen" opacity="0.8" d="M46.3628 -144.767V598.073L276.293 729.807L504.724 598.073V-144.767H46.3628Z" fill="url(#paint14_linear_1_188)"/>
-<path style="mix-blend-mode:screen" opacity="0.8" d="M110.639 -144.767V584.984L276.085 691.874L440.448 584.984V-144.767H110.639Z" fill="url(#paint15_linear_1_188)"/>
-<path style="mix-blend-mode:screen" opacity="0.8" d="M172.948 -145V572.481L275.596 631.735L377.576 572.494V-145H172.948Z" fill="url(#paint16_linear_1_188)"/>
+<path style="mix-blend-mode:screen" opacity="0.6" d="M46.3628 -144.767V598.073L276.293 729.807L504.724 598.073V-144.767H46.3628Z" fill="#9a1ae9"/>
+<path style="mix-blend-mode:screen" opacity="0.7" d="M110.639 -144.767V584.984L276.085 691.874L440.448 584.984V-144.767H110.639Z" fill="#9a1ae9"/>
+<path style="mix-blend-mode:screen" opacity="0.7" d="M172.948 -145V572.481L275.596 631.735L377.576 572.494V-145H172.948Z" fill="#9a1ae9"/>
 <path style="mix-blend-mode:color-dodge" opacity="0.5" d="M275.986 574.433C328.212 574.433 370.55 513.676 370.55 438.729C370.55 363.781 328.212 303.025 275.986 303.025C223.76 303.025 181.422 363.781 181.422 438.729C181.422 513.676 223.76 574.433 275.986 574.433Z" fill="url(#paint17_radial_1_188)"/>
 <path d="M233.955 438.074L275.268 422.238L316.582 438.074L275.268 453.898L233.955 438.074Z" fill="url(#paint18_linear_1_188)"/>
 <g style="mix-blend-mode:multiply">
@@ -244,4 +244,42 @@
 <stop offset="1" stop-color="#FF8B48"/>
 </linearGradient>
 </defs>
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
 </svg>

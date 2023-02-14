@@ -305,3 +305,16 @@ right: -30px;
     padding:1em .1em;
     border-radius: 2em;
 }
+.getnftsection{
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+    color: var(--white-color);
+justify-content: center;
+align-items: center;
+}
+.brands{
+    display: flex;
+    justify-content: space-between;
+    
+}
